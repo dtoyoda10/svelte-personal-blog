@@ -3,7 +3,7 @@
 	"type": "module",
 	"version": "1.0.0",
 	"private": false,
-	"author": "Candido Sales Gomes <candidosg@gmail.com>",
+	"author": "Daichi Toyoda",
 	"license": "MIT",
 	"scripts": {
 		"dev": "astro dev",
