@@ -1,6 +1,4 @@
-# Personal Blog 2v - Astro + Tailwind + Svelte
-
-![image](./docs/lighthouse-report.png)
+# Personal Blog - Astro + Tailwind + Svelte
 
 Inspirations:
 
@@ -57,8 +55,4 @@ If you want to support Personal Portfolio, you can ☕ [**buy a coffee here**](h
 
 ## Author
 
-- Cândido Sales - [@candidosales](https://twitter.com/candidosales)
-
-## ⚠️ Copyright and license
-
-Code and documentation copyright 2020-2030 the [Authors](https://github.com/candidosales/personal-blog-2v/graphs/contributors) and Code released under the [MIT License](https://github.com/candidosales/personal-blog-2v/blob/master/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+- Daichi Toyoda - [@dtoyoda10](https://twitter.com/dtoyoda10)
