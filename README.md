@@ -43,13 +43,8 @@ All commands are run from the root of the project, from a terminal:
 
 If you want to say thank you and/or support the active development this project:
 
-1. Add a [GitHub Star](https://github.com/candidosales/personal-blog-2v/stargazers) to the project.
+1. Add a [GitHub Star](https://github.com/dtoyoda10/svelte-personal-blog/stargazers) to the project.
 2. Write a review or tutorial on [Medium](https://medium.com/), [Dev.to](https://dev.to/) or personal blog.
-3. Support the project by donating a [cup of coffee](https://buymeacoff.ee/candidosales).
-
-## ☕ Supporters
-
-If you want to support Personal Portfolio, you can ☕ [**buy a coffee here**](https://buymeacoff.ee/candidosales)
 
 ## ✨ Acknowledgment
 
