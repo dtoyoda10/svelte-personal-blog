@@ -51,3 +51,6 @@ If you want to say thank you and/or support the active development this project:
 ## Author
 
 - Daichi Toyoda - [@dtoyoda10](https://twitter.com/dtoyoda10)
+
+## Contributors
+- Satoshi Araki - [@aozoragh](https://twitter.com/aozora7_x)
