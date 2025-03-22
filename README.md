@@ -53,4 +53,6 @@ If you want to say thank you and/or support the active development this project:
 - Daichi Toyoda - [@dtoyoda10](https://twitter.com/dtoyoda10)
 
 ## Contributors
+- Kiyoshi Araki - [@cupid20103](https://twitter.com/cupid20103)
 - Satoshi Araki - [@aozoragh](https://twitter.com/aozora7_x)
+
